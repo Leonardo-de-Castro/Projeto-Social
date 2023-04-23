@@ -30,7 +30,7 @@ section#telefone {
 
     height: 627px;
     width: 311px;
-    background: url('../imagens/frame-iphone.png') no-repeat;
+    background: url('../imagens/frame-iphone.png') no-repeat center;
 }
 
 iframe#tela {
